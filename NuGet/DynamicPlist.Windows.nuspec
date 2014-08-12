@@ -8,7 +8,7 @@
     <owners>Jose Medrano (@netonjm)</owners>
     <licenseUrl>https://github.com/netonjm/DynamicPlist/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/netonjm/DynamicPlist</projectUrl>
-	<iconUrl>http://www.developstudios.com/cocossharp/netonjm.png</iconUrl>
+	<iconUrl>http://www.developstudios.com/cocossharp/plist.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>DynamicPlist for Windows.A library to work with Plist in a dynamic mode</description>
     <copyright>netonjm</copyright>
